@@ -1,5 +1,5 @@
 {
-	"name": "CopyDataSQLDBToSQLDB",
+	"name": "CopyDataSQLDBToSQLDBPipeline",
 	"properties": {
 		"activities": [
 			{
