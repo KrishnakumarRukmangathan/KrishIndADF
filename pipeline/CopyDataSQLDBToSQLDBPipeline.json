@@ -101,7 +101,7 @@
 				]
 			},
 			{
-				"name": "Data flow1",
+				"name": "DataFlowSQLDBToLake",
 				"type": "ExecuteDataFlow",
 				"dependsOn": [
 					{
