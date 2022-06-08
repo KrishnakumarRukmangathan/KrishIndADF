@@ -1,0 +1,9 @@
+{
+	"name": "KrishIndADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e0500120-2061-4810-8463-222e87728941",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
