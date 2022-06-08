@@ -1,0 +1,12 @@
+{
+	"name": "AzureSqlTableCourse",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SinkAzureSqlDatabase",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
