@@ -1,0 +1,36 @@
+{
+	"name": "SourceAzureSqlTable",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "CourseID",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "Title",
+				"type": "nvarchar"
+			},
+			{
+				"name": "Credits",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "DepartmentID",
+				"type": "int",
+				"precision": 10
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "Course"
+		}
+	}
+}
