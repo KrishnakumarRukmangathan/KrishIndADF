@@ -10,6 +10,15 @@
 		},
 		"SinkAzureSqlDatabase_connectionString": {
 			"value": ""
+		},
+		"AzureSqlDatabase2_connectionString": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://krishindadlsgen2.dfs.core.windows.net/"
 		}
 	}
 }
